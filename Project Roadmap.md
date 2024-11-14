@@ -10,4 +10,5 @@
  - [X]  Addition of Gradient Boosting and XGBoost Classifiers  Done
  - [X]  Summarize the results
  - [ ]  Compare the performance between the models
- - [ ] Prepare for the Presentation 
+ - [ ] Prepare for the Presentation
+ - [ ] Building an app for diabetes_risk 
