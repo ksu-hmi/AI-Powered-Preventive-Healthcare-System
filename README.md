@@ -103,3 +103,4 @@ _will be adding two models, XGBoost and Naive Bayes, to the analysis of the diab
 focusing on developing a predictive healthcare system using machine learning and AI.
 >Sprint 2
 In this update to the Jupyter Notebook, the heart disease dataset analysis, I integrated two new models, the Gradient Boosting Classifier and the XGBoost Classifier, to enhance the dataset's predictive analysis. These models were trained on the resampled and scaled data, followed by evaluation metrics to compare their performance against previously implemented classifiers.
+I created an app to predict the risk of diabetes:diabetes_risk calculator2.
