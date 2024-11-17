@@ -8,7 +8,7 @@
  - [X] Transfer updated Jupyter Notebook to GitHub Done
  - [X] Download and Run the JupiterNotebook for the heart disease dataset Done
  - [X]  Addition of Gradient Boosting and XGBoost Classifiers  Done
- - [X]  Summarize the results
- - [ ]  Compare the performance between the models
+ - [X]  Summarize the results Done
+ - [X]  Compare the performance between the models   Done
+   [X] Building an app for diabetes_risk: Diabetes Risk Calculator  Done
  - [ ] Prepare for the Presentation
- - [ ] Building an app for diabetes_risk 
